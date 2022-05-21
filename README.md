@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://interactive-rating-component-main-ivory.vercel.app)
+- Live Site URL: [Link to active page](https://interactive-rating-component-main-ivory.vercel.app)
 
 ## My process
 
